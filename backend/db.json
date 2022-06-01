@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta Bic",
+      "price": "1.99"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Acer",
+      "price": "12000.00"
+    },
+    {
+      "id": 3,
+      "name": "Iphone XS",
+      "price": "7500.00"
+    },
+    {
+      "name": "Produto Teste",
+      "price": 125.8,
+      "id": 4
+    },
+    {
+      "name": "aaaa",
+      "price": "1212",
+      "id": 5
+    },
+    {
+      "name": "fdsfdsf",
+      "price": "kjh",
+      "id": 6
+    }
+  ]
+}
